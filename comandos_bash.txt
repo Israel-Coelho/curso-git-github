@@ -33,3 +33,5 @@ git config --global user.email - para confirmar se o e-mail está correto
 git config --global user.name "Israel Coelho" - colocar um nome para assinar o comando commit.
 
 git config --global user.name - para confirmar se o nome está correto
+
+nano + nomeArquivo.txt - vai abrir um editor de texto
