@@ -1,0 +1,35 @@
+Lista de comandos do GIT.
+
+ls - vai listar o que tem
+
+ls -a - lista o tudo que tem mais itens ocultos.
+
+CD DESKTOP - entra na área de trabalho
+
+pwd(print working directory) - mostra o caminho absoluto (ex:/c/Users/Israel/desktop)
+
+.. - eu volto uma pasta
+
+CD - para entrar em um diretório
+
+mkdir + nome da pasta - para criar pasta
+
+Cat - para verificar o que tem dentro de arquivos txt
+
+git init . - para iniciar um repositorio GIT vazio na pasta que vocês está navegando.
+
+rm -rf .+nome da pasta - para excluir
+
+git status - para ver o status do GIT
+
+git add - para adicionar um item ao commit (versionamento)
+
+git commit -m "uma mensagem para saber onde você está" - comitar o arquivo.
+
+git config --global user.email "israel.coelho29@gmail.com" - colocar um e-mail para assinar o comando commit.
+
+git config --global user.email - para confirmar se o e-mail está correto
+
+git config --global user.name "Israel Coelho" - colocar um nome para assinar o comando commit.
+
+git config --global user.name - para confirmar se o nome está correto
