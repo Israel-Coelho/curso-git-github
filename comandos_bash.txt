@@ -18,7 +18,8 @@ Cat - para verificar o que tem dentro de arquivos txt
 
 git init . - para iniciar um repositorio GIT vazio na pasta que vocês está navegando.
 
-rm -rf .+nome da pasta - para excluir
+rm -rf .+nome da pasta - para excluir tudo sem precisar confirmar
+rm - para excluir
 
 git status - para ver o status do GIT
 
