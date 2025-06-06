@@ -16,6 +16,8 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 09. git merge nova_branch
 
 ## Fluxo de trabalho GitHub <> Local (projeto próprio ou da empresa)
+
+
 01. git clone <endereco do projeto>
 02. git checkout -b <nova_branch>
 03. alterações de arquivos
